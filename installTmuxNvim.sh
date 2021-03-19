@@ -10,5 +10,6 @@ mkdir ~/Documents/scripts
 cd ~/Documents/scripts
 git clone https://github.com/Amtilaw/VimAndTmuxScript.git
 cd VimAndTmuxScript
+mkdir ~/.config/nvim
 cp init.vim ~/.config/nvim/
 cp .tmux.conf ~/
